@@ -1,0 +1,7 @@
+{
+    "notifications": [
+        {"id": 145, "title": "title", "content": "content"},
+        {"id": 146, "title": "title", "content": "content"}
+    ],
+    "version_app": {"version": "1.0.0", "url": "https://play.google.com/lsdlkjdf/", "message": "lsdlsdfksdljajklsdflsdk"}
+}
